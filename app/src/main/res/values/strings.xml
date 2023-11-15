@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">apkBembos</string>
+    <string name="title_home">Home</string>
+    <string name="title_favoritos">Favoritos</string>
+    <string name="title_menu">Menú</string>
+    <string name="title_notificaciones">Notificaciones</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contentDescription">contentDescription</string>
+    <string name="TipoDocumento">Tipo Documento</string>
+
+
+</resources>
